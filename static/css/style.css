@@ -1,0 +1,36 @@
+header {
+    font-size: large;
+    font-family: sans-serif;
+    font-style:initial
+}
+body {
+font-style: oblique;
+font-size:larger;
+font-family: monospace;
+background: linear-gradient(to bottom, #122545, #0E2C54);
+color: #FBF8F3
+}
+#disclaimer {
+    color: crimson;
+}
+#button {
+    background-color: crimson;
+    color: aliceblue;
+    height: 100px;
+    width: 200px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2)
+}
+#button:hover{
+    background-color: blueviolet;
+}
+
+#button2 {
+    background-color: crimson;
+    color: aliceblue;
+    height: 50px;
+    width: 125px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2)
+}
+#button2:hover{
+    background-color: blueviolet;
+}
